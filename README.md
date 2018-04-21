@@ -12,6 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
+|[洪浩东](https://www.scauos.xin/)| [GitHub](https://github.com/scauos/WWDC18-Scholarship) | [YouTube](https://www.youtube.com/watch?v=_axv3XeIfuw&t=193s) | UIKit, CoreMotion, SceneKit, SpriteKit, PlaygroundBook | ACCEPTED |
 |[Aaron Cheung](https://www.facebook.com/WahYanAaron)| | | UIKit, AVFoundation, Gesture Recognizer | Submitted |
 |[Aaron Nguyen](https://github.com/attwelveDev)|[GitHub](https://github.com/attwelveDev/WWDC18-Submission)| | UIKit, AVFoundation | Submitted |
 |[Adann Simões](https://github.com/adannsergio)|[GitHub](https://github.com/adannsergio/WWDC18)||PlaygroundBooks, UIKit, CoreGraphics| Submitted |
